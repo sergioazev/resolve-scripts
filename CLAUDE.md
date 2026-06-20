@@ -11,6 +11,7 @@
 - **IMDb:** imdb.com/name/nm4735822
 - **Instagram:** instagram.com/argonautas.tv
 - **Letterboxd:** letterboxd.com/editor/sergio-azevedo
+- **Wix:** sergio0051.wixsite.com/sergioazev
 
 ## Profissão
 - Editor e montador de cinema e TV, 20+ anos de experiência
@@ -34,9 +35,13 @@ Português (nativo), Inglês (intermediário), Francês (intermediário), Espanh
 ## Prêmios
 | Ano | Prêmio | Filme |
 |---|---|---|
-| 2013 | Melhor Montagem — Troféu Câmara Legislativa, 46º Festival de Brasília | *Plano B* |
-| 2017 | Melhor Montagem — Festival de Triunfo | *Em Defesa da Família* |
-| 2023 | Melhor Montagem — 56º Festival de Brasília | *Rodas de Gigante* |
+| 2011 | Melhor Documentário — 4º Festival de Cinema de Paulínia | *Rock Brasília – Era de Ouro* |
+| 2013 | Melhor Longa-Metragem e Melhor Montagem — Troféu Câmara Legislativa, 46º Festival de Brasília | *Plano B* |
+| 2016 | Melhor Curta (Júri Popular) e Melhor Montagem — Festival de Triunfo | *Em Defesa da Família* |
+| 2023 | Melhor Filme e Melhor Montagem — 56º Festival de Brasília (Troféu Câmara Legislativa) | *Rodas de Gigante* |
+| 2023 | Melhor Filme e Melhor Direção — 14º Festival de Triunfo | *Vão das Almas* |
+| 2025 | Melhor Longa-Metragem (Júri Oficial e Popular) — 27º Troféu Câmara Legislativa, 58º Festival de Brasília | *Maré Viva Maré Morta* |
+| 2025 | Prêmio SESC-DF de Cinema | *Maré Viva Maré Morta* |
 
 ## Filmografia Selecionada
 | Ano | Título | Direção | Formato |
@@ -72,19 +77,19 @@ Português (nativo), Inglês (intermediário), Francês (intermediário), Espanh
 - Custo médio BTC: ~US$ 55.000/coin
 - Halvings relevantes: 2028, 2032
 
-### Portfólio atual (referência Jun 2026)
-| Ativo | Ticker | Tipo |
-|---|---|---|
-| Bitcoin | BTC | Cripto |
-| Ethereum | ETH | Cripto |
-| Solana | SOL | Cripto |
-| Pendle | PENDLE | Cripto |
-| Cardano | ADA | Cripto |
-| Uranium Energy | UEC | Commodity |
-| Cameco | CCJ | Equity |
-| IBM | IBM | Equity |
-| QuBits | QUBT | Microcap |
-| Rigetti | RGTI | Microcap |
+### Portfólio (referência Jun 2026)
+| Ativo | Ticker | Tipo | Qtd | PM (US$) |
+|---|---|---|---|---|
+| Bitcoin | BTC | Cripto | 0,25 | 55.000 |
+| Ethereum | ETH | Cripto | 1 | 2.600 |
+| Solana | SOL | Cripto | 25,38 | 190 |
+| Pendle | PENDLE | Cripto | 1.020 | 2 |
+| Cardano | ADA | Cripto | 2.015 | 1 |
+| Uranium Energy | UEC | Commodity | 135 | 15 |
+| Cameco | CCJ | Equity | 11 | 119 |
+| IBM | IBM | Equity | 0,6 | 234 |
+| QuBits | QUBT | Microcap | 4 | 9 |
+| Rigetti | RGTI | Microcap | 4 | 16 |
 
 ## Dados Pessoais
 - Nascimento: 20 de dezembro de 1972, São Luís (MA), 19:10
