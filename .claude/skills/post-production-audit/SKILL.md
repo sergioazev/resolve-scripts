@@ -6,7 +6,7 @@ description: Run the post-production audit on a project in pre-production. Use w
 # Post-Production Audit
 
 Operationalizes the checklist in `docs/post-production-audit.md` (read it first —
-it is the source of truth for the 48 items, their section grouping, and their
+it is the source of truth for the items, their section grouping, and their
 timing tags). Do not paraphrase items from memory; quote them from the document.
 
 ## Timing model
@@ -31,20 +31,21 @@ Every item carries a tag for when it fires:
    possible; only ask the user for what can't be inferred. Batch questions by
    section, don't drip them one at a time.
 
-3. **Walk the five sections** (Schedule & Delivery Strategy, VFX Planning,
-   Sound Strategy, Editorial Risk Assessment) marking each item: OK, AT RISK,
-   UNANSWERED, or N/A — with a one-line justification anchored in the material,
-   never a bare checkbox.
+3. **Walk the audit sections** (Schedule & Delivery Strategy; Technical
+   Pipeline & Media; VFX Planning; Sound Strategy; Editorial Risk Assessment;
+   Legal, Rights & AI) marking each item: OK, AT RISK, UNANSWERED, or N/A —
+   with a one-line justification anchored in the material, never a bare
+   checkbox.
 
 4. **On a phase-filtered request** ("what must be locked before shooting?",
    "o que precisa estar travado antes de filmar?"), return exactly the items
    with that tag, grouped by section, with their current status.
 
-5. **Always finish with Section 5 — Final Green-Light Review.** This is the
-   deliverable: four written answers, not checkboxes:
+5. **Always finish with the Final Green-Light Review** (the document's last
+   section). This is the deliverable: four written answers, not checkboxes:
    - What can be solved now instead of in post? (the [G1] items flagged AT RISK)
-   - Biggest schedule risks? (from section 1)
-   - Biggest budget risks? (from sections 2–3)
+   - Biggest schedule risks? (schedule, delivery, accessibility/mastering lead times)
+   - Biggest budget risks? (VFX, ADR, rights/clearances, mastering, archive)
    - What absolutely must be locked before shooting? (the [G2] list with status)
 
 6. **Flag Resolve automation candidates.** When [P] or [PL] items are AT RISK or
